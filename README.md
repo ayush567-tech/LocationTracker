@@ -10,5 +10,5 @@ An Android application which tracks your location and provides a convenient meth
 5. Submit a pull request :D
 
 ## Screenshots
-<img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400"> <img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MyLocationActivity.jpg" alt="MyLocationActivity" width="250" height="400"> <img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MapActivity.jpg" alt="MapActivity" width="250" height="400">
+<img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MainActivity.jpg" alt="MainActivity" width="250" height="400"> <img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MyLocationActivity.jpg" alt="MyLocationActivity" width="250" height="400"> <img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/MapActivity.jpg" alt="MapActivity" width="250" height="400"> <img src="https://github.com/ayush567-tech/LocationTracker/blob/master/Screenshots/ViewAnotherLocation.jpg" alt="ViewAnotherLocation" width="250" height="400">
 
